@@ -4,7 +4,7 @@
 
 This repository contains all the material related to the publication "Draw My Life: Using Vision Language Models in a Robot-Mediated Visual Storytelling Activity to Support Self-Disclosure and Detect Intimate Conversations".
 
-The video below showcase the setup of the experiment and provide an example of a Draw My Life activity.
+The image below showcases the setup of the experiment. You can click on the image to be redirected towards a demo video of a Draw My Life activity.
 
 [![Watch the demo](./images/setup.png)](https://youtu.be/pjJHRYXSYdo)
 
