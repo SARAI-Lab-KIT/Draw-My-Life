@@ -14,7 +14,7 @@ The image below showcases the setup of the experiment. You can click on the imag
 - **[features_extraction_code](https://github.com/SARAI-Lab-KIT/draw_my_life_study_1/tree/main/features_extraction_code)**: This folder contains the code used to extract the features from the collected data.
 - **[extracted_features](https://github.com/SARAI-Lab-KIT/draw_my_life_study_1/tree/main/extracted_features)**: This folder contains the features extracted from the collected data, in aggregated format.
 - **[features_analysis_code](https://github.com/SARAI-Lab-KIT/draw_my_life_study_1/tree/main/features_analysis_code)**: This folder contains the code used to analyse the extracted features.
-- **[images](https://github.com/SARAI-Lab-KIT/draw_my_life_study_1/tree/main/images)**: This folder contains the images used in the different README of this repository.
+- **[images](https://github.com/SARAI-Lab-KIT/draw_my_life_study_1/tree/main/images)**: This folder contains the images used in the different README of this repository, as well as the demo video of the Draw My Life activity.
 
 **Note**: For everything related to the robot, please check the [PixelBot](https://github.com/RomainMaure/PixelBot/tree/pixelbot_v2) repository.
 
