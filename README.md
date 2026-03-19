@@ -1,14 +1,12 @@
-# Draw My Life: Using Visual Storytelling and Robot-based Active Listening to Support Self-Disclosure in Children
+# Draw My Life: Using Vision Language Models in a Robot-Mediated Visual Storytelling Activity to Support Self-Disclosure and Detect Intimate Conversations
 
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-This repository contains all the material related to the publication "Draw My Life: Using Visual Storytelling and Robot-based Active Listening to Support Self-Disclosure in Children".
+This repository contains all the material related to the publication "Draw My Life: Using Vision Language Models in a Robot-Mediated Visual Storytelling Activity to Support Self-Disclosure and Detect Intimate Conversations".
 
-The image and video below showcase the setup of the experiment and provide an example of a Draw My Life activity.
+The video below showcase the setup of the experiment and provide an example of a Draw My Life activity.
 
-<img src="./images/setup.png" width=602 height=511>
-
-<video src="./images/draw_my_life_demo.mp4" width="602" height="339" controls></video>
+[![Watch the demo](./images/setup.png)](https://youtu.be/pjJHRYXSYdo)
 
 ## What you will find inside this repository
 
