@@ -1,8 +1,8 @@
-# Draw My Life: Using Vision Language Models in a Robot-Mediated Visual Storytelling Activity to Support Self-Disclosure and Detect Intimate Conversations
+# Draw My Life: Using Vision Language Models in Robot-Mediated Visual Storytelling to Support Self-Disclosure and Detect Intimate Conversations
 
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-This repository contains all the material related to the publication "Draw My Life: Using Vision Language Models in a Robot-Mediated Visual Storytelling Activity to Support Self-Disclosure and Detect Intimate Conversations".
+This repository contains all the material related to the publication "Draw My Life: Using Vision Language Models in Robot-Mediated Visual Storytelling to Support Self-Disclosure and Detect Intimate Conversations".
 
 The image below showcases the setup of the experiment. You can click on the image to be redirected towards a demo video of a Draw My Life activity.
 
