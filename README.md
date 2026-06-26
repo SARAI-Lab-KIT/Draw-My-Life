@@ -6,7 +6,7 @@ This repository contains all the material related to the publication "Draw My Li
 
 The image below showcases the setup of the experiment. You can click on the image to be redirected towards a demo video of a Draw My Life activity.
 
-[![Watch the demo](./images/setup.png)](https://youtu.be/pjJHRYXSYdo)
+[![Watch the demo](./images/setup.png)](https://youtu.be/AQUNriUK3Tw)
 
 ## What you will find inside this repository
 
